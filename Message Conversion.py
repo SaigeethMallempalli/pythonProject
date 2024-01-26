@@ -21,9 +21,6 @@ def upper_func(input: List[Message]):
 
     Given a list of type "Message", I wanted to return a list of type "Message"
     with plain strings in uppercase and dictionary values in uppercase.
-
-   #:param input:
-    #:return:
 """
 from typing import List, Union, Dict
 
